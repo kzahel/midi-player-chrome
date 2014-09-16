@@ -1,6 +1,6 @@
 [submodule "MIDI.js"]
 	path = MIDI.js
-	url = https://github.com/mudcube/MIDI.js.git
+	url = git@github.com:kzahel/MIDI.js.git
 [submodule "euphony"]
 	path = euphony
 	url = git@github.com:kzahel/euphony.git

@@ -8,7 +8,7 @@ chrome.app.runtime.onLaunched.addListener(function(launchData) {
 
     // race conditions with initalizing etc etc...
 
-    chrome.app.window.create('euphony/debug.html',
+    chrome.app.window.create('debug.html',
                              {id:'euphony'},
                              function(window) {
                                  console.log('euphony window callback',window)
