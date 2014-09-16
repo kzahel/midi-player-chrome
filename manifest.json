@@ -27,14 +27,14 @@
         {"fileSystem":["directory","retainEntries"]}
     ],
     "icons": { 
-        "16": "icon-midi-16.png",
-        "19": "icon-midi-19.png",
-        "32": "icon-midi-32.png",
-        "38": "icon-midi-38.png",
-        "48": "icon-midi-48.png",
-        "64": "icon-midi-64.png",
-        "96": "icon-midi-96.png",
-        "128": "icon-midi-128.png",
-        "256": "icon-midi-256.png"
+        "16": "icons/icon-midi-16.png",
+        "19": "icons/icon-midi-19.png",
+        "32": "icons/icon-midi-32.png",
+        "38": "icons/icon-midi-38.png",
+        "48": "icons/icon-midi-48.png",
+        "64": "icons/icon-midi-64.png",
+        "96": "icons/icon-midi-96.png",
+        "128": "icons/icon-midi-128.png",
+        "256": "icons/icon-midi-256.png"
     }
 }
